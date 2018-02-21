@@ -22,7 +22,7 @@ footer p{
   vertical-align: center;
 }
 
-img#mainlogo {
+img#minilogo {
   width: 70px;
 }
 
@@ -306,6 +306,7 @@ img.mainlogo{
           max-width: 1000px;
           margin-right: auto;
           margin-left: auto; }
+
 img.mainlogo{
       width: 80%;}
    }
