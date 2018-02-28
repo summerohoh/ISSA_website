@@ -10,16 +10,24 @@ body {
 
 footer{
   color: #fff;
-  text-align-last: center;
   padding:10px;
   margin-top: 100px;
   height: 40px;
   overflow: hidden;
 }
 
-footer p{
+footer{
   font-size: 15px;
   vertical-align: center;
+  font-weight: 200;
+}
+
+#creditline{
+  float: left;
+}
+
+#copyright{
+  float: right;
 }
 
 img#minilogo {
@@ -399,10 +407,20 @@ p #listserv{
   padding-bottom: 30px;
 }
 
+img.corporate-logo{
+  width: 100%;
+  max-width: 200px;
+
+}
 
 img.headshot{
   width: 70%;
   max-width: 200px;
+}
+
+.profile-icon{
+  color: #000;
+  margin: 20px;
 }
 
 .card{
@@ -423,7 +441,7 @@ img.headshot{
 .responsiveCal {
  
 position: relative; 
-padding-bottom: 75%; 
+padding-bottom: 50%; 
 height: 0; 
 overflow: hidden;
  
